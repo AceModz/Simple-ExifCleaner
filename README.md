@@ -11,3 +11,10 @@ Installing Dependencies
 
 
     $ pip install Pillow moviepy
+
+
+# Usage
+1. Run the Python script.
+2. A dialog box will open to select the file for processing.
+3. The script will create a copy of the file without Exif data in the specified folder.
+    
