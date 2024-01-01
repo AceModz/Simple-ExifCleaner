@@ -8,4 +8,4 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 
 Installing Dependencies
 
-'pip install Pillow moviepy'
+# pip install Pillow moviepy
