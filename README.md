@@ -9,6 +9,7 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 
 Installing Dependencies
 
+
 Windows :
 
     $ pip install Pillow moviepy
