@@ -9,8 +9,21 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 
 Installing Dependencies
 
+Windows :
 
     $ pip install Pillow moviepy
+
+Kali Linux :
+
+    $ sudo apt-get update
+    $ sudo apt-get install python3-pip python3-dev
+    $ pip3 install Pillow moviepy
+
+
+
+    
+
+    
 
 
 # Usage
