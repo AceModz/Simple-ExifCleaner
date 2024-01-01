@@ -7,8 +7,6 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 
 •MoviePy: Python library for video editing.
 
-Installing Dependencies
-
 
 # Windows :
 
