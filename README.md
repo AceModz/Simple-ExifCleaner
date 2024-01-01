@@ -39,4 +39,11 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 2. A dialog box will open to select the file for processing.
 3. The script will create a copy of the file without Exif data in the specified folder.
 
+
+
+
+
+
+! The script is in French 
+
     
