@@ -9,5 +9,4 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 Installing Dependencies
 
 
-    $ ./pret.py laserjet.lan ps
-    $ ./pret.py /dev/usb/lp0 pjl
+    $ pip install Pillow moviepy
