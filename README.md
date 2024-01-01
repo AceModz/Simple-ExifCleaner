@@ -44,6 +44,6 @@ This Python script utilizes the Pillow and MoviePy libraries to remove Exif data
 
 
 
- **❓ The script is in French ❓ **
+ **❓ The script is in French ❓**
 
     
